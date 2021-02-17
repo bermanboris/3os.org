@@ -36,21 +36,21 @@
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
-    ```mysql
-    SELECT
-      Employees.EmployeeID,
-      Employees.Name,
-      Employees.Salary,
-      Manager.Name AS Manager
-    FROM
-      Employees
-    LEFT JOIN
-      Employees AS Manager
-    ON
-      Employees.ManagerID = Manager.EmployeeID
-    WHERE
-      Employees.EmployeeID = &#39;087652&#39;;
-    ```
+<span class=sb>    ```mysql</span>
+    <span class=k>SELECT</span>
+      <span class=n>Employees</span><span class=p>.</span><span class=n>EmployeeID</span><span class=p>,</span>
+      <span class=n>Employees</span><span class=p>.</span><span class=k>Name</span><span class=p>,</span>
+      <span class=n>Employees</span><span class=p>.</span><span class=n>Salary</span><span class=p>,</span>
+      <span class=n>Manager</span><span class=p>.</span><span class=k>Name</span> <span class=k>AS</span> <span class=n>Manager</span>
+    <span class=k>FROM</span>
+      <span class=n>Employees</span>
+    <span class=k>LEFT</span> <span class=k>JOIN</span>
+      <span class=n>Employees</span> <span class=k>AS</span> <span class=n>Manager</span>
+    <span class=k>ON</span>
+      <span class=n>Employees</span><span class=p>.</span><span class=n>ManagerID</span> <span class=o>=</span> <span class=n>Manager</span><span class=p>.</span><span class=n>EmployeeID</span>
+    <span class=k>WHERE</span>
+      <span class=n>Employees</span><span class=p>.</span><span class=n>EmployeeID</span> <span class=o>=</span> <span class=s1>&#39;087652&#39;</span><span class=p>;</span>
+<span class=sb>    ```</span>
 
     Nunc eu odio eleifend, blandit leo a, volutpat sapien. Phasellus posuere in
     sem ut cursus. Nullam sit amet tincidunt ipsum, sit amet elementum turpis.

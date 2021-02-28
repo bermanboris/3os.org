@@ -31,7 +31,7 @@
 -e <span class=nv>WATCHTOWER_NOTIFICATION_SLACK_ICON_EMOJI</span><span class=o>=</span>:wrench: <span class=se>\</span>
 -e <span class=nv>TZ</span><span class=o>=</span>Asia/Jerusalem <span class=se>\</span>
 containrrr/watchtower:latest --schedule <span class=s1>&#39;0 0 4 * * *&#39;</span> --cleanup
-</code></pre></div> <h3>Run WatchTower Ounces</h3> <div class=highlight><pre><span></span><code>docker run --rm -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower --run-once
+</code></pre></div> <h3 id=run_watchtower_ounces>Run WatchTower Ounces<a class=headerlink href=#run_watchtower_ounces title="Permanent link">🔗</a></h3> <div class=highlight><pre><span></span><code>docker run --rm -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower --run-once
 </code></pre></div> <h2 id=cloudflare-ddns>Cloudflare-DDNS<a class=headerlink href=#cloudflare-ddns title="Permanent link">🔗</a></h2> <div class=highlight><pre><span></span><code>docker run <span class=se>\</span>
 -d <span class=se>\</span>
 --restart always <span class=se>\</span>

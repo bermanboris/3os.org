@@ -6,47 +6,47 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://3os.org/development/docker/cli-commands/</loc>
+         <loc>https://3os.org/devops/docker/cli-commands/</loc>
          <lastmod>2021-09-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://3os.org/development/docker/purging-and-cleaning/</loc>
+         <loc>https://3os.org/devops/docker/purging-and-cleaning/</loc>
          <lastmod>2021-09-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://3os.org/development/docker/ssh-to-docker-container/</loc>
+         <loc>https://3os.org/devops/docker/ssh-to-docker-container/</loc>
          <lastmod>2021-09-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://3os.org/development/git/git/</loc>
+         <loc>https://3os.org/devops/git/git/</loc>
          <lastmod>2021-09-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://3os.org/development/node-npm/npm/</loc>
+         <loc>https://3os.org/devops/node-npm/npm/</loc>
          <lastmod>2021-09-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://3os.org/development/node-npm/pm2/</loc>
+         <loc>https://3os.org/devops/node-npm/pm2/</loc>
          <lastmod>2021-09-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://3os.org/development/python/pip/</loc>
+         <loc>https://3os.org/devops/python/pip/</loc>
          <lastmod>2021-09-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://3os.org/development/python/python/</loc>
+         <loc>https://3os.org/devops/python/python/</loc>
          <lastmod>2021-09-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://3os.org/development/ruby/ruby/</loc>
+         <loc>https://3os.org/devops/ruby/ruby/</loc>
          <lastmod>2021-09-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
